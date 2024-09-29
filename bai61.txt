@@ -1,0 +1,3 @@
+6.1: 
+- Nếu người dùng chọn “Cancel” thì chương trình sẽ cho ra output là “No”
+- Ý 2 ở file ChooseOption61b.java
